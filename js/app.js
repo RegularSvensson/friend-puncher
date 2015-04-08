@@ -1,5 +1,7 @@
 var friends = $('.friend');
 var button = $('button');
+var buttons = $('button');
+
 friends.hide();
 $('#friend1').show();
 
@@ -27,4 +29,3 @@ $( "#button5" ).click(function() {
 	friends.hide();
 	$('#friend5').show();
 });
-
