@@ -1,1 +1,2 @@
-app.js
+var friends = $('.friend');
+var button = $('button');
